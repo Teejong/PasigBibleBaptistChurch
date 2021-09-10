@@ -1,0 +1,10 @@
+/* Article 1 */
+
+.article1 {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    text-align: justify;
+    margin: 50px 400px 50px 400px;
+    padding: 50px;
+}
